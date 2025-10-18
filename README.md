@@ -1,2 +1,6 @@
 ## Kauan Henrique 
-Sou programador em Python, com foco em automação, análise e manipulação de dados. Tenho experiência com Pandas, MySQL e Power BI, aplicando boas práticas de modelagem e normalização de bancos de dados. Desenvolvo soluções completas, da coleta ao dashboard final, integrando programação e visualização de dados. Busco otimizar processos e gerar insights a partir de dados reais. Sempre em evolução como desenvolvedor de dados. 
+Sou programador Python e trabalho com automação e análise de dados.
+Uso Pandas para manipulação e tratamento de informações.
+Trabalho com MySQL, modelagem e normalização de dados.
+Crio dashboards e visualizações com Power BI.
+Gero insights e otimizo processos a partir dos dados.
